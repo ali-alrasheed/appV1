@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alkay\\source\\repos\\application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE505C39-B974-4EA1-A6CA-4C2C0ED1CC09}|Infrastructure\\Infrastructure.csproj|c:\\users\\alkay\\source\\repos\\application\\infrastructure\\seedconfiguration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE505C39-B974-4EA1-A6CA-4C2C0ED1CC09}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seedconfiguration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE08DC32-0CA7-440A-800A-3595E2F7F77D}|Application.API\\Application.API.csproj|c:\\users\\alkay\\source\\repos\\application\\application.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE08DC32-0CA7-440A-800A-3595E2F7F77D}|Application.API\\Application.API.csproj|solutionrelative:application.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28C27CD-DB65-4DF5-956A-DA6693743C63}|Application.Domain\\Application.Domain.csproj|c:\\users\\alkay\\source\\repos\\application\\application.domain\\madels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28C27CD-DB65-4DF5-956A-DA6693743C63}|Application.Domain\\Application.Domain.csproj|solutionrelative:application.domain\\madels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE505C39-B974-4EA1-A6CA-4C2C0ED1CC09}|Infrastructure\\Infrastructure.csproj|c:\\users\\alkay\\source\\repos\\application\\infrastructure\\dto\\userforauthenticationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE505C39-B974-4EA1-A6CA-4C2C0ED1CC09}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dto\\userforauthenticationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE505C39-B974-4EA1-A6CA-4C2C0ED1CC09}|Infrastructure\\Infrastructure.csproj|c:\\users\\alkay\\source\\repos\\application\\infrastructure\\dto\\userforregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE505C39-B974-4EA1-A6CA-4C2C0ED1CC09}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dto\\userforregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alkay\\source\\repos\\application\\Infrastructure\\seedConfiguration\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\seedConfiguration\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\alkay\\source\\repos\\application\\Infrastructure\\seedConfiguration\\RoleConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\seedConfiguration\\RoleConfiguration.cs",
+              "ViewState": "AgIAAA4AAAAAmZmZmZn5vyoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:04:15.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alkay\\source\\repos\\application\\Application.Domain\\Madels\\User.cs",
+              "RelativeDocumentMoniker": "Application.Domain\\Madels\\User.cs",
+              "ToolTip": "C:\\Users\\alkay\\source\\repos\\application\\Application.Domain\\Madels\\User.cs",
+              "RelativeToolTip": "Application.Domain\\Madels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:01:40.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\alkay\\source\\repos\\application\\Application.API\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Application.API\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\alkay\\source\\repos\\application\\Application.API\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Application.API\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:00:50.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserForAuthenticationDto.cs",
+              "DocumentMoniker": "C:\\Users\\alkay\\source\\repos\\application\\Infrastructure\\DTO\\UserForAuthenticationDto.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DTO\\UserForAuthenticationDto.cs",
+              "ToolTip": "C:\\Users\\alkay\\source\\repos\\application\\Infrastructure\\DTO\\UserForAuthenticationDto.cs",
+              "RelativeToolTip": "Infrastructure\\DTO\\UserForAuthenticationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:00:34.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserForRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\alkay\\source\\repos\\application\\Infrastructure\\DTO\\UserForRegistrationDto.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DTO\\UserForRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\alkay\\source\\repos\\application\\Infrastructure\\DTO\\UserForRegistrationDto.cs",
+              "RelativeToolTip": "Infrastructure\\DTO\\UserForRegistrationDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:58:46.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
